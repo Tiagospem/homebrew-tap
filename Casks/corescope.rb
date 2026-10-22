@@ -1,6 +1,6 @@
 cask "corescope" do
-  version "0.12.0"
-  sha256 "6755a7dfff73ba2f3bbdc120133e5109730baebb4c9daae5984f6a84d6ab6a8a"
+  version "0.12.1"
+  sha256 "0b17e5979aac545ceab80c7835f32f99b2544f3315af78b78a64bf3462bc9f90"
 
   url "https://github.com/Tiagospem/corescope/releases/download/v#{version}/CoreScope-#{version}-macos-universal.zip"
   name "CoreScope"
